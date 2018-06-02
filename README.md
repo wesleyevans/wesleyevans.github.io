@@ -1,1 +1,1 @@
-# This website is coming soon to the ownership of Wesley Evans. Expect the website to be 100% done by June 2019. Thank you for your patience. (Typed on June 2nd, 2018 @ 2:44 PM Central Standard Time)
+# This website is coming soon to the ownership of Wesley Evans. Expect the website to be 100% done by June 2019. Thank you for your patience. (Typed on June 2nd, 2018 @ 2:44 PM Central Standard Time) Special thanks to Grant Wiggins for making this website partly possible because of his knowledge of HTML and CSS.
