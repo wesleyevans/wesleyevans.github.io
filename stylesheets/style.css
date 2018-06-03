@@ -50,3 +50,19 @@ body {
 .social a:hover {
     color: #2F513D;
 }
+
+/* ------------------------------ Media Queries ------------------------------ */
+
+@media screen and (max-width: 900px) {
+    
+}
+
+@media screen and (max-width: 768px) {
+    .main h1 {
+        font-size: 800%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    
+}
