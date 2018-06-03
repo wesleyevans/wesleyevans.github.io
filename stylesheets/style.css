@@ -1,0 +1,54 @@
+/* ------------------------------ Fonts ------------------------------ */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+@font-face {
+	font-family: "Stripes";
+	src: url('fonts/Stripes/Stripes.eot');
+	src: url('fonts/Stripes/Stripes.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/Stripes/Stripes.woff2') format('woff2'),
+		 url('fonts/Stripes/Stripes.woff') format('woff'),
+		 url('fonts/Stripes/Stripes.ttf') format('truetype'),
+		 url('fonts/Stripes/Stripes.svg') format('svg');
+}
+
+/* ------------------------------ Body ------------------------------ */
+
+body {
+    width: auto;
+    background-color: #DCDCD0
+}
+
+.main {
+    height: 100%;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #4F8868;
+    background-size: cover;
+}
+
+.main h1 {
+    font-size: 600%;
+    margin-bottom: 0.50%;
+    font-family: "Stripes", sans-serif;
+}
+
+.main h3 {
+    font-size: 175%;
+    margin-top: 0.50%;
+    margin-bottom: 1%;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.social {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 100px;
+    font-size: 300%;
+    color: #4F8868;
+}
+
+.social a {
+    color: #4F8868;
+}
