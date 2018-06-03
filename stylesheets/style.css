@@ -4,12 +4,12 @@
 
 @font-face {
 	font-family: "Former Airline";
-	src: url('fonts/FormerAirline/FormerAirline.eot');
-	src: url('fonts/FormerAirline/FormerAirline.eot?#iefix') format('embedded-opentype'),
-		 url('fonts/FormerAirline/FormerAirline.woff2') format('woff2'),
-		 url('fonts/FormerAirline/FormerAirline.woff') format('woff'),
-		 url('fonts/FormerAirline/FormerAirline.ttf') format('truetype'),
-		 url('fonts/FormerAirline/FormerAirline.svg') format('svg');
+	src: url('fonts/FormerAirline/former.eot');
+	src: url('fonts/FormerAirline/former.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/FormerAirline/former.woff2') format('woff2'),
+		 url('fonts/FormerAirline/former.woff') format('woff'),
+		 url('fonts/FormerAirline/former.ttf') format('truetype'),
+		 url('fonts/FormerAirline/former.svg') format('svg');
 }
 
 /* ------------------------------ Body ------------------------------ */
