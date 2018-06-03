@@ -1,16 +1,7 @@
 /* ------------------------------ Fonts ------------------------------ */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
-
-@font-face {
-	font-family: "FormerAirline";
-	src: url('fonts/FormerAirline/former.eot');
-	src: url('fonts/FormerAirline/former.eot?#iefix') format('embedded-opentype'),
-		 url('fonts/FormerAirline/former.woff2') format('woff2'),
-		 url('fonts/FormerAirline/former.woff') format('woff'),
-		 url('fonts/FormerAirline/former.ttf') format('truetype'),
-		 url('fonts/FormerAirline/former.svg#svgFontName') format('svg');
-}
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 
 /* ------------------------------ Body ------------------------------ */
 
@@ -22,6 +13,7 @@ body {
 .main {
     height: 100%;
     margin-left: 100px;
+    margin-right: 100px;
     margin-top: 100px;
     margin-bottom: 100px;
     color: #4F8868;
@@ -30,15 +22,16 @@ body {
 
 .main h1 {
     font-size: 600%;
-    margin-bottom: 0.50%;
-    font-family: "FormerAirline", "Roboto Condensed", sans-serif;
+    line-height: 125%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Bungee Shade', 'Roboto Condensed', sans-serif;
 }
 
 .main h3 {
     font-size: 175%;
-    margin-top: 0.50%;
-    margin-bottom: 1%;
-    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .social {
@@ -51,4 +44,9 @@ body {
 
 .social a {
     color: #4F8868;
+    transition: all 0.3s;
+}
+
+.social a:hover {
+    color: #2F513D;
 }
